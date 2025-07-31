@@ -1,1 +1,8 @@
-tf-ec2/.terraform/
+# Terraform directories and files
+.terraform/
+*.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
